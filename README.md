@@ -10,6 +10,9 @@
 
 # GitAction
 
+-   [GitAction 구성요소](./GitAction/GitAction_구성요소.md)
+-   [GitAction 이벤트](./GitAction/GitAction_이벤트.md)
+
 # Testing
 
 # Readable-Code
