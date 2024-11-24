@@ -93,7 +93,8 @@ jobs:
 
 ## workflow dispatch
 
-수동 실행
+-   수동으로 트리거
+-   default branch 에서만 동작
 
 ```yaml
 name: workflow-dispatch
@@ -146,4 +147,46 @@ jobs:
         steps:
             - name: schedule test
               run: echo hello world
+```
+
+## needs
+
+-   job 간에 종속성을 생성
+-   하나의 job이 다른 job 또는 여러 job이 완료될 때 실행되도록 사용
+
+## re-run
+
+-   과거에 실행된 워크플로우를 재실행
+-   트리거된 그 시점을 다시실행(수정된거 반영 x)
+
+```yml
+name: needs
+on: push
+
+jobs:
+    job1:
+        runs-on: ubuntu-latest
+        steps:
+            - name: echo
+              run: echo "job1 done"
+    job2:
+        runs-on: ubuntu-latest
+        needs: [job1] #job1 성공후 실행
+        steps:
+            - name: echo
+              run: echo "job2 done"
+    job3:
+        runs-on: ubuntu-latest
+        steps:
+            - name: echo #exit 1 -> job 강제 실패
+              run: |
+                  echo "job3 failed"
+                  exit 1
+    job4:
+        runs-on: ubuntu-latest
+        needs: [job3] #3이 실패할꺼니까 이것도 당연히 실행 안됨  # 이럴때 사용하는게 re-run 과거에 실행된 워크플로우를 재실행, 성공 실패 여부와 상관없이 재실행 가능, 트리거된 그 시점(수정 반영 x)을 재실행
+        steps: # 수정 파일 반영할꺼면 수정한 파일이 포함된 후 워크플로우를 실행해야
+            - name: echo
+              run: |
+                  echo "job4 done"
 ```

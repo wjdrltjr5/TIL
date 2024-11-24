@@ -12,9 +12,6 @@
 
 -   [GitAction 구성요소](./GitAction/GitAction_구성요소.md)
 -   [GitAction 이벤트](./GitAction/GitAction_이벤트.md)
+-   [GitAction 편의기능](./GitAction/GitAction_추가기능.md)
 
-# Testing
-
-# Readable-Code
-
-# Monitoring
+# 컨퍼런스
