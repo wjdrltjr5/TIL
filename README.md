@@ -29,3 +29,8 @@
 ## Spring
 
 -   [외부설정](./Spring/외부설정.md)
+
+## 트러블슈팅
+
+-   [설정파일분리시gradle build test실패](./트러블슈팅/설정파일분리시gradle%20build%20test실패.md)
+-   [WebMvcTest시 40X문제](./트러블슈팅/WebMvcTest시%2040X문제.md)
