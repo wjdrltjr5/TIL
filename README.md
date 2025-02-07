@@ -4,12 +4,6 @@
 
 -   [docker 기본 명령어](./Docker/docker%20기본%20명령어.md)
 
-## GitAction
-
--   [GitAction 구성요소](./GitAction/GitAction_구성요소.md)
--   [GitAction 이벤트](./GitAction/GitAction_이벤트.md)
--   [GitAction 편의기능](./GitAction/GitAction_추가기능.md)
-
 ## Git
 
 -   [Submodules](./Git/Git%20Submodules.md)
@@ -36,6 +30,16 @@
 ### 로깅
 
 -   [개발자에게 필요한 로그 관리](./로깅/개발자에게%20필요한%20로그%20관리/index.md)
+
+## 배포
+
+### GitAction
+
+-   [GitAction 구성요소](./GitAction/GitAction_구성요소.md)
+-   [GitAction 이벤트](./GitAction/GitAction_이벤트.md)
+-   [GitAction 편의기능](./GitAction/GitAction_추가기능.md)
+
+### [안정적인 서비스 배포를 위한 배포 전략과 팁](./배포/안정적인%20서비스%20배포를%20위한%20배포%20전략과%20팁/안정적인%20서비스%20배포를%20위한%20배포%20전략과%20팁.md)
 
 ## 책
 
