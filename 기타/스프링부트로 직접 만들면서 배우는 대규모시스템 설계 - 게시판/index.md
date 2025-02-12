@@ -4,6 +4,10 @@
 
 [강의대시보드](https://www.inflearn.com/course/%EC%8A%A4%ED%94%84%EB%A7%81%EB%B6%80%ED%8A%B8%EB%A1%9C-%EB%8C%80%EA%B7%9C%EB%AA%A8-%EC%8B%9C%EC%8A%A4%ED%85%9C%EC%84%A4%EA%B3%84-%EA%B2%8C%EC%8B%9C%ED%8C%90/dashboard)
 
+[강의 코드](https://github.com/wjdrltjr5/kuke-board)
+
+최적화 뿐만아니라 코드 작성, 테스트 작성 방식 참고
+
 ## 목차
 
 -   들어가며
@@ -12,6 +16,9 @@
     -   [Primary key생성 전략](게시글/게시글%20Primary%20Key.md)
     -   [게시글 목록 조회 index](./게시글/게시글%20목록%20조회.md)
 -   댓글
+    -   [댓글 설계](./댓글/댓글%20설계.md)
+    -   [댓글 목록 조회 2depth](./댓글/댓글%20목록%20조회%20-%202%20depth%20.md)
+    -   [댓글 목록 조회 무한depth](./댓글/댓글%20목록%20조회%20-%20무한%20depth.md)
 -   좋아요
 -   조회수
 -   인기글
