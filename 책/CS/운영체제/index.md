@@ -74,7 +74,11 @@
 -   5.8 알고리즘 평가
 -   [5.9 요약](./Chapter5/5.9%20요약.md)
 
-### Chapter 6
+### Chapter 6 동기화 도구들
+
+-   [6.1 배경](./Chapter6/6.1%20배경%20.md)
+-   [6.2 임계구역 문제](./Chapter6/6.2%20임계구역%20문제.md)
+-   [6.3 Peterson의 해결안](./Chapter6/6.3%20Peterson의%20해결안.md)
 
 ### Chapter 7
 
