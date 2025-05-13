@@ -13,3 +13,5 @@
 -   [Undo](./Chapter%201/5.%20Undo.md)
 -   [문장수준 읽기 일관성](./Chapter%201/6.%20문장수준%20읽기%20일관성.md)
 -   [Consistent vs Current 모드 읽기](./Chapter%201/7.%20Consistent%20vs.%20Current%20모드%20읽기.md)
+-   [블록 클린아웃](./Chapter%201/8.%20블록%20클린아웃.md)
+-   [Snapshot too old](./Chapter%201/9.%20Snapshot%20too%20old.md)
