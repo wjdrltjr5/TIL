@@ -15,3 +15,5 @@
 -   [Consistent vs Current 모드 읽기](./Chapter%201/7.%20Consistent%20vs.%20Current%20모드%20읽기.md)
 -   [블록 클린아웃](./Chapter%201/8.%20블록%20클린아웃.md)
 -   [Snapshot too old](./Chapter%201/9.%20Snapshot%20too%20old.md)
+-   [대기 이벤트](./Chapter%201/1.10%20대기%20이벤트.md)
+-   [Shared Pool](./Chapter%201/1.11%20Shared%20Pool.md)
