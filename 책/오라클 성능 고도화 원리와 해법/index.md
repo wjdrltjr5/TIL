@@ -17,3 +17,9 @@
 -   [Snapshot too old](./Chapter%201/9.%20Snapshot%20too%20old.md)
 -   [대기 이벤트](./Chapter%201/1.10%20대기%20이벤트.md)
 -   [Shared Pool](./Chapter%201/1.11%20Shared%20Pool.md)
+
+### Chapter 2 트랜잭션과 Lock
+
+-   [트랜잭션 동시성제어](./Chapter%202/1.%20트랜잭션%20동시성%20제어.md)
+-   [트랜잭션 수준 읽기 일관성](./Chapter%202/2.%20트랜잭션%20수준%20읽기%20일관성.md)
+-   [비관적 vs 낙관적 동시성 제어](./Chapter%202/3.%20비관적%20vs%20낙관정%20동시성제어.md)
