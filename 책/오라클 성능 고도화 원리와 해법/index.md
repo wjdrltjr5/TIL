@@ -25,3 +25,14 @@
 -   [비관적 vs 낙관적 동시성 제어](./Chapter%202/3.%20비관적%20vs%20낙관정%20동시성제어.md)
 -   [동시성 구현 사례](./Chapter%202/4.%20동시성%20구현%20사례.md)
 -   [오라클 Lock](./Chapter%202/5.%20오라클%20Lock.md)
+
+### Chapter 3 오라클 성능 관리
+
+-   [Explain Plan](./Chapter%203/1.%20Explain%20Plan.md)
+-   [AutoTrace](./Chapter%203/2.%20AutoTrace.md)
+-   [SQL 트레이스](./Chapter%203/3.%20SQL%20트레이스.md)
+-   [DBMS_XPLAN 패키지](./Chapter%203/4.%20DBMS_XPLAN%20패키지.md)
+-   [V$SYSSTAT](./Chapter%203/5.%20V$SYSSTAT.md)
+-   [V$SYSTEM_EVENT](./Chapter%203/6.%20V$SYSTEM_EVENT.md)
+-   [Response Time Analysis 방법론과 OWI](./Chapter%203/7.%20Response%20Time%20Analysis%20방법론과%20OWI.md)
+-   [Statspack AWR](./Chapter%203/8.%20Statspack%20%20AWR.md)
