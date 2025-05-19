@@ -39,3 +39,9 @@
 -   [ASH](./Chapter%203/9.%20ASH.md)
 -   [V$SQL](./Chapter%203/10.%20V$SQL.md)
 -   [End to End](./Chapter%203/11.%20End-To-End%20성능관리.md)
+
+### Chapter 4 라이브러리 캐시 최적화 원리
+
+-   [SQL과 옵티마이저](./Chapter%204/1.%20SQL과%20옵티마이저.md)
+-   [SQL 처리과정](./Chapter%204/2.%20SQL%20처리과정.md)
+-   [라이브러리 캐시 구조](./Chapter%204/3.%20라이브러리%20캐시%20구조.md)
