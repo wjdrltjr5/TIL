@@ -48,3 +48,8 @@
 -   [커서 공유](./Chapter%204/4.%20커서%20공유.md)
 -   [바인드 변수의 중요성](./Chapter%204/5.%20바인드%20변수의%20중요성.md)
 -   [바인드 변수의 부작용과 해법](./Chapter%204/6.%20바인드%20변수의%20부작용과%20해법.md)
+-   [세션 커서 캐싱](./Chapter%204/7.%20세션%20커서%20캐싱.md)
+-   [애플리케이션 커서 캐싱](./Chapter%204/8.%20애플리케이션%20커서%20캐싱.md)
+-   [Static vs. Dynamic SQL](./Chapter%204/9.%20Static%20vs.%20Dynamic%20SQL.md)
+-   [Dynamic SQL 사용기준](./Chapter%204/10.%20Dynamic%20SQL사용기준.md)
+-   [Static SQL 구현을 위한 기법들](./Chapter%204/11.%20Static%20SQL%20구현을%20위한%20기법들.md)
