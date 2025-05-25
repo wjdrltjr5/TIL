@@ -53,3 +53,7 @@
 -   [Static vs. Dynamic SQL](./Chapter%204/9.%20Static%20vs.%20Dynamic%20SQL.md)
 -   [Dynamic SQL 사용기준](./Chapter%204/10.%20Dynamic%20SQL사용기준.md)
 -   [Static SQL 구현을 위한 기법들](./Chapter%204/11.%20Static%20SQL%20구현을%20위한%20기법들.md)
+
+### Chapter 5 데이터베이스 Call 최소화 원리
+
+-   [Call 통계](./Chapter%205/Call%20통계.md)
