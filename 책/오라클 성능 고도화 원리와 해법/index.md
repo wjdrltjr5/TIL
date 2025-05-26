@@ -62,3 +62,5 @@
 -   [Array Processing 활용](./Chapter%205/4.%20Array%20Processing%20활용.md)
 -   [Fetch Call 최소화](./Chapter%205/5.%20Fetch%20Call%20최소화.md)
 -   [페이지 처리의 중요성](./Chapter%205/6.%20페이지%20처리의%20중요성.md)
+-   [PL/SQL 함수의 특징과 성능 부하](./Chapter%205/7.%20PL_SQL%20함수의%20특징과%20성능%20부하.md)
+-   [PL/SQL 함수 호출 부하 해소 방안](./Chapter%205/8.%20PL_SQL%20함수%20호출%20부하%20해소%20방안.md)
