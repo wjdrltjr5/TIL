@@ -70,3 +70,5 @@
 -   [블록 단위 I/O](./Chapter%206/1.%20블록단위%20IO.md)
 -   [Memory vs Disk](./Chapter%206/2.%20Memory%20vs%20Disk.md)
 -   [Single vs MultiBlock I/O](./Chapter%206/3.%20Single%20vs%20Multiblock%20io.md)
+-   [Prefetch](./Chapter%206/4.%20Prefetch.md)
+-   [Direct Path I/O](./Chapter%206/5.%20Direct%20Path%20IO.md)
