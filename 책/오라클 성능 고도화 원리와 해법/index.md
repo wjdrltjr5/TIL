@@ -72,3 +72,6 @@
 -   [Single vs MultiBlock I/O](./Chapter%206/3.%20Single%20vs%20Multiblock%20io.md)
 -   [Prefetch](./Chapter%206/4.%20Prefetch.md)
 -   [Direct Path I/O](./Chapter%206/5.%20Direct%20Path%20IO.md)
+-   [RAC 캐시 퓨전](./Chapter%206/6.%20RAC%20캐시%20퓨전.md)
+-   [Result 캐시](./Chapter%206/7.%20Result캐시.md)
+-   [I/O 효율와 원리](./Chapter%206/8.%20IO%20효율화%20원리.md)
