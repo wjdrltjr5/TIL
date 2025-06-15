@@ -17,3 +17,4 @@
 ## Chapter 02 조인 원리와 활용
 
 -   [Nested Loops 조인](./Chapter%202/1.%20Nested%20Loops%20조인.md')
+-   [소트 머지 조인](./Chapter%202/2.%20소트%20머지%20조인.md)
