@@ -38,3 +38,4 @@
 ## Chapter 04 쿼리 변환
 
 -   [쿼리 변환이란?](./Chapter%204/1.%20쿼리%20변환이란.md)
+-   [서브쿼리 Unnesting](./Chapter%204/2.%20서브쿼리%20Unnesting.md)
