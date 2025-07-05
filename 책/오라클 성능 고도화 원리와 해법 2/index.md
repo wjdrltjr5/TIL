@@ -42,3 +42,4 @@
 -   [뷰 Merging](./Chapter%204/3.뷰%20Merging.md)
 -   [조건절 Pushing](./Chapter%204/4.%20조건절%20Pushing.md)
 -   [조건절 이행](./Chapter%204/5.%20조건절%20이행.md)
+-   [조인 제거](./Chapter%204/6.%20조인제거.md)
