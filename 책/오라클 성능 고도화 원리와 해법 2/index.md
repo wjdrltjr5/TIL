@@ -43,3 +43,4 @@
 -   [조건절 Pushing](./Chapter%204/4.%20조건절%20Pushing.md)
 -   [조건절 이행](./Chapter%204/5.%20조건절%20이행.md)
 -   [조인 제거](./Chapter%204/6.%20조인제거.md)
+-   [OR-Expansion](./Chapter%204/7.%20OR-Expansion.md)
