@@ -46,3 +46,4 @@
 -   [OR-Expansion](./Chapter%204/7.%20OR-Expansion.md)
 -   [공통 표현식 제거](./Chapter%204/8.%20공통%20표현식%20제거.md)
 -   [Outer조인을 Inner 조인으로 변환](./Chapter%204/9.%20Outer%20조인을%20Inner%20조인으로%20변환.md)
+-   [실체화 뷰 쿼리로 재작성](./Chapter%204/9.%20Outer%20조인을%20Inner%20조인으로%20변환.md)
