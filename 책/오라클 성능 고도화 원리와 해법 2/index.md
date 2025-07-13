@@ -63,3 +63,4 @@
 ## Chapter 06 파티셔닝
 
 -   [테이블 파티셔닝](./Chapter%206/1.%20테이블%20파티셔닝.md)
+-   [파티션 Pruning](./Chapter%206/2.%20파티션%20Pruning.md)
