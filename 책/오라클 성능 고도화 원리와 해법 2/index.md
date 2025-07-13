@@ -72,3 +72,4 @@
 -   [병렬 Order by 와 Group by](./Chapter%207/2.%20병렬%20order%20by와%20group%20by.md)
 -   [병렬 조인](./Chapter%207/3.%20병렬%20조인.md)
 -   [PQ_DISTRIBUTE 힌트](./Chapter%207/4.%20PQ_DISTRIBUTE힌트.md)
+-   [병렬 처리에 관한 기타 상식](./Chapter%207/5.%20병렬%20처리에%20관한%20기타%20상식.md)
