@@ -2,10 +2,13 @@
 
 [강의대시보드](https://www.inflearn.com/course/%EC%98%A4%EB%B8%8C%EC%A0%9D%ED%8A%B8-%EC%84%A4%EA%B3%84%EC%9B%90%EC%B9%99-part2)
 
+[예제 통합본 github](https://github.com/eternity-oop/object-principle)
+
 ## 목차
 
 - section 1 강의 소개
     - [1-1 기능 구현과 설계 원칙](./section%201/1-1%20기능%20구현과%20설계%20원칙.md)
+    - [1-2 학습 방법](./section%201/1-2%20학습%20방법.md)
 - section 2 텍스트 어드벤처 게임
 - section 3 메서드 조합하기
 - section 4 값 객체와 참조 객체 
