@@ -91,4 +91,6 @@
 
 ## NoSql 이해하기
 - [NoSQL 이란](./NoSQL%20이해하기/NoSQL이란.md)
+- [NoSQL 종류](./NoSQL%20이해하기/NoSQL%20종류.md)
+- [NoSQL 도입시 고려 사항](./NoSQL%20이해하기/NoSQL%20도입시%20고려%20사항.md)
 ## DB로 분산 잠금 구현하기
