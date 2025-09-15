@@ -1,6 +1,8 @@
 # Virtual Thread 어디까지 보고 오셨어요?
 
-[영상링크](https://www.youtube.com/watch?v=AuBHv8NOca4&list=PLdHtZnJh1KdYYFaaJCCis_swbqbYPrtYC&index=10)
+- [영상링크](https://www.youtube.com/watch?v=AuBHv8NOca4&list=PLdHtZnJh1KdYYFaaJCCis_swbqbYPrtYC&index=10)
+- [다른 참고링크](https://techblog.woowahan.com/15398/)
+- [다른 참고 영상](https://www.youtube.com/watch?v=BZMZIM-n4C0)
 
 ## Virtual Thread Overview
 - JDK 21에 공식 도입
